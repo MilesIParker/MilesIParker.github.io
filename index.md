@@ -41,7 +41,7 @@ My research interests are primarily climate change and inflation.
           <li><a href="https://github.com/MilesIParker">GitHub</a></li>
  	<li><a href="https://scholar.google.de/citations?user=qu-5NDwAAAAJ&hl=en">Google Scholar</a></li>
           <li><a href="https://twitter.com/MilesIParker">Twitter (@MilesIParker)</a></li>
-      <li><a>BlueSky (@MilesParker)</a></li>
+      <li><a>BlueSky (@MilesParker.bsky.social)</a></li>
       </ul>
   </div>
 </div>
