@@ -1,10 +1,6 @@
 ---
-layout: frontpage
-title: Miles Parker
-description: Miles Parker is a central banker, currently @ European Central Bank 
-keywords: climate change, monetary policy, inflation
 
-
+  <body>
 
  <div class="wrapper">
       <header>
@@ -22,9 +18,10 @@ I have been a central banker for more than two decades, currently at the Europea
 
 My research interests are primarily climate change and inflation.
 
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
+<a href="https://milesiparker.github.io/assets/CV.pdf">My CV is available here.</a>
       </section>
     </div>
+</body>
 
 <div class="navbar">
   <div class="navbar-inner">
