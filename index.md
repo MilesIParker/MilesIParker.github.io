@@ -5,7 +5,7 @@ description: Miles Parker is a central banker, currently @ European Central Bank
 keywords: climate change, monetary policy, inflation
 ---
 
-Welcome to ym personal website!
+Welcome to my personal website!
 
 I have been a central banker for more than two decades, currently at the European Central Bank, previously Reserve Bank of New Zealand and Bank of England. I have worked in that time in positions across Economics and Financial Stability and have written well over 100 speeches for policymakers.
 
