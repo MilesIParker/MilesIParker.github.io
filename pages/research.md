@@ -1,15 +1,19 @@
 ---
 layout: page
 title: Research
-description: Blue Ham's research
+description: Miles Parker's research
 ---
 
+## <u> Climate change </u>
 
 
-#### <u>The effects of increased eye contact on feeding portions</u>
-*In this paper I estimate the effect of increased eye contact on the size of feeding portions delivered by my humans. Over a period of several months I varied the amount of time I spent in locked eye contact with my masters while secretely recording the total amount of food provided each day. The results incidate that the relationship between eye contact and portion size is concave, in that as eye contact increases, the portion size increases up until a point where it begins to decrease. Future research will examine whether time spent cuddling exhibits a similar relationship.*
 
-[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)
+#### <u> <a href="https://www.ecb.europa.eu/pub/economic-bulletin/articles/2023/html/ecb.ebart202306_02~0535282388.en.html"> How climate change affects potential output</a> </u>
+ECB Economic Buletin, No. 2023/6
+
+*This article considers how climate change will affect potential output – the highest level of production that an economy can sustain over the long run without driving up inflation. Higher temperatures and changing rainfall patterns are likely to negatively affect certain sectors, notably agriculture and tourism, and impair workers’ productivity. The green transition involves the reallocation of capital and labour across businesses and sectors. In the long run, the impact on potential output depends on the success of that reallocation and on the rate of progress of green innovation.*
+
+
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
